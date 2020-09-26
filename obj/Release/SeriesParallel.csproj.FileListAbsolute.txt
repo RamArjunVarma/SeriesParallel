@@ -1,0 +1,10 @@
+D:\Projects\VisualStudio\SereisParallel\SeriesParallel\bin\Release\SeriesParallel.exe.config
+D:\Projects\VisualStudio\SereisParallel\SeriesParallel\bin\Release\SeriesParallel.exe
+D:\Projects\VisualStudio\SereisParallel\SeriesParallel\bin\Release\SeriesParallel.pdb
+D:\Projects\VisualStudio\SereisParallel\SeriesParallel\obj\Release\SeriesParallel.csprojAssemblyReference.cache
+D:\Projects\VisualStudio\SereisParallel\SeriesParallel\obj\Release\SeriesParallel.GUI.SeriesParallel.resources
+D:\Projects\VisualStudio\SereisParallel\SeriesParallel\obj\Release\SeriesParallel.Properties.Resources.resources
+D:\Projects\VisualStudio\SereisParallel\SeriesParallel\obj\Release\SeriesParallel.csproj.GenerateResource.cache
+D:\Projects\VisualStudio\SereisParallel\SeriesParallel\obj\Release\SeriesParallel.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio\SereisParallel\SeriesParallel\obj\Release\SeriesParallel.exe
+D:\Projects\VisualStudio\SereisParallel\SeriesParallel\obj\Release\SeriesParallel.pdb
